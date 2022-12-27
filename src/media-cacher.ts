@@ -32,7 +32,7 @@ export class MediaCacher {
 
     this.getStorageKey =
       options.getStorageKey ||
-      ((_method, input) => {
+      ((_context, input) => {
         switch (input.type) {
           // we can cache only the path to the file
           case MediaSourceType.Path:
