@@ -14,9 +14,9 @@
     "file-id",
     "cache"
   ],
-  "homepage": "https://github.com/ItzNeviKat/puregram-file-id#readme",
-  "bugs": "https://github.com/ItzNeviKat/puregram-file-id/issues",
-  "repository": "https://github.com/ItzNeviKat/puregram-file-id",
+  "homepage": "https://github.com/ItzNeviKat/puregram-media-cacher#readme",
+  "bugs": "https://github.com/ItzNeviKat/puregram-media-cacher/issues",
+  "repository": "https://github.com/ItzNeviKat/puregram-media-cacher",
   "license": "MIT",
   "author": "Nikita Koshelenko <nikitakoschelenko@gmail.com>",
   "main": "./lib/index",
