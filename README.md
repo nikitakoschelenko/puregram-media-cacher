@@ -1,11 +1,10 @@
+[npm-version-badge]: https://img.shields.io/npm/v/puregram-media-cacher.svg
+[npm-license-badge]: https://img.shields.io/npm/l/puregram-media-cacher.svg
+[npm-downloads-badge]: https://img.shields.io/npm/dm/puregram-media-cacher.svg
+[npm-link]: https://npmjs.com/package/puregram-media-cacher
+
 # puregram-media-cacher
-
-[npm-v]: https://img.shields.io/npm/v/puregram-media-cacher.svg?style=flat-square
-[npm-downloads]: https://img.shields.io/npm/dt/puregram-media-cacher?label=used%20by&style=flat-square
-
-[![NPM version][npm-v]][npm-url]
-[![NPM downloads][npm-downloads]][npm-url]
-<!-- [![Build Status][build]][build-url] -->
+[![NPM][npm-version-badge]][npm-link] [![NPM][npm-license-badge]][npm-link] [![NPM][npm-downloads-badge]][npm-link]
 
 📀 Media cacher for [puregram](https://github.com/nitreojs/puregram)
 
